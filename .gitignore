@@ -1,3 +1,14 @@
+# Nextflow artifacts
+.nextflow*
+work/
+
+# OS-specific clutter
+
+.DS_Store
+
+# Backup and temp files
+*.bak
+*.tmp
 work/
 downloads/
 output/
